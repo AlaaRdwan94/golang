@@ -1,0 +1,6 @@
+=============== May 22, 2020 (EET) ===============
+06:10:23.086818 log@legend F·NumFile S·FileSize N·Entry C·BadEntry B·BadBlock Ke·KeyError D·DroppedEntry L·Level Q·SeqNum T·TimeElapsed
+06:10:23.282771 db@open opening
+06:10:23.284248 version@stat F·[] S·0B[] Sc·[]
+06:10:23.288510 db@janitor F·2 G·0
+06:10:23.288556 db@open done T·5.747901ms
